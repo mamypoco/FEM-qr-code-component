@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -24,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/just-html-and-css-6MvGIwonB2)
-- Live Site URL: [Add live site URL here](https://mami-qr-code.netlify.app/)
+- Solution URL:(https://www.frontendmentor.io/solutions/just-html-and-css-6MvGIwonB2)
+- Live Site URL: (https://mami-qr-code.netlify.app/)
 
 ## My process
 
